@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /bin/
+Disallow: /Admin/
+Disallow: /Lab/
+Disallow: /App_Data/
+Disallow: /Uploaded/
